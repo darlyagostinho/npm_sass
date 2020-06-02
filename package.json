@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass src/sass/ -o dist/css/ -w"
   },
   "keywords": [],
   "author": "Darly Agostinho <darlyagostinho@gmail.com> (https://darlyagostinho.com)",
