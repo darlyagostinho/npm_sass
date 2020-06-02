@@ -1,0 +1,15 @@
+{
+  "name": "npm_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darly Agostinho <darlyagostinho@gmail.com> (https://darlyagostinho.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
